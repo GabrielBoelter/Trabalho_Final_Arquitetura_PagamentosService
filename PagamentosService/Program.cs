@@ -14,6 +14,7 @@ builder.Services.AddSwaggerGen();
 // Injeção de dependência
 builder.Services.AddScoped<IPagamentoRepository, PagamentoRepository>();
 builder.Services.AddScoped<IPagamentoService, PagamentoService>();
+builder.Services.AddScoped<IAcessoTreinoRepository, AcessoTreinoRepository>();
 
 // Adicionando o HttpClient para fazer chamadas entre microsserviços
 builder.Services.AddHttpClient<ITreinosServiceClient, TreinosServiceClient>();

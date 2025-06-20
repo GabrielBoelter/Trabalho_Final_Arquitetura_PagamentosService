@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "PagamentosService.Controllers.PagamentosController",
+    "Method": "Post",
+    "RelativePath": "api/pagamentos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "PagamentosService.Models.DTOs.PagamentoCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PagamentosService.Controllers.PagamentosController",
+    "Method": "Get",
+    "RelativePath": "api/pagamentos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -3,60 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\repositories\\acessotreinorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\repositories\\acessotreinorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\repositories\\iacessotreinorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\repositories\\iacessotreinorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\controllers\\pagamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\controllers\\pagamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\services\\pagamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\services\\pagamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\repositories\\pagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\repositories\\pagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\models\\acessotreino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\models\\acessotreino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\repositories\\ipagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\repositories\\ipagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\pagamentosservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\pagamentosservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\controllers\\pagamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\controllers\\pagamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\services\\ipagamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\services\\ipagamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\repositories\\pagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\repositories\\pagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\repositories\\ipagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\repositories\\ipagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\repositories\\iacessotreinorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\repositories\\iacessotreinorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\repositories\\acessotreinorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\repositories\\acessotreinorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\models\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\models\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\dtos\\pagamentoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\dtos\\pagamentoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\models\\acessotreino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\models\\acessotreino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\migrations\\20250619205220_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\migrations\\20250619205220_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\external\\treinosserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\external\\treinosserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\external\\treinoexternaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\external\\treinoexternaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\external\\itreinosserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\external\\itreinosserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\dtos\\pagamentoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,24 +87,12 @@
       "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\dtos\\acessotreinoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\external\\treinosserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\external\\treinosserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\external\\treinoexternaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\external\\treinoexternaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\external\\itreinosserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\external\\itreinosserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\pagamentosservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\pagamentosservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\dtos\\pagamentoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|solutionrelative:pagamentosservice\\dtos\\pagamentoupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{121D537C-4D18-443F-8E98-2C2257054865}|PagamentosService\\PagamentosService.csproj|c:\\users\\bielb\\onedrive\\\u00E1rea de trabalho\\projeto_academia\\pagamentosservice\\pagamentosservice\\pagamentosservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -110,180 +110,278 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IAcessoTreinoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Repositories\\IAcessoTreinoRepository.cs",
-              "RelativeDocumentMoniker": "PagamentosService\\Repositories\\IAcessoTreinoRepository.cs",
-              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Repositories\\IAcessoTreinoRepository.cs",
-              "RelativeToolTip": "PagamentosService\\Repositories\\IAcessoTreinoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "PagamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Repositories\\PagamentoRepository.cs",
+              "RelativeDocumentMoniker": "PagamentosService\\Repositories\\PagamentoRepository.cs",
+              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Repositories\\PagamentoRepository.cs",
+              "RelativeToolTip": "PagamentosService\\Repositories\\PagamentoRepository.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAA4wFgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T20:13:16.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T20:39:36.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "IPagamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Services\\IPagamentoService.cs",
+              "RelativeDocumentMoniker": "PagamentosService\\Services\\IPagamentoService.cs",
+              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Services\\IPagamentoService.cs",
+              "RelativeToolTip": "PagamentosService\\Services\\IPagamentoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:16:14.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PagamentoService.cs",
               "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Services\\PagamentoService.cs",
               "RelativeDocumentMoniker": "PagamentosService\\Services\\PagamentoService.cs",
               "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Services\\PagamentoService.cs",
               "RelativeToolTip": "PagamentosService\\Services\\PagamentoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T20:40:03.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AcessoTreinoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Repositories\\AcessoTreinoRepository.cs",
-              "RelativeDocumentMoniker": "PagamentosService\\Repositories\\AcessoTreinoRepository.cs",
-              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Repositories\\AcessoTreinoRepository.cs",
-              "RelativeToolTip": "PagamentosService\\Repositories\\AcessoTreinoRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAADEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T20:13:55.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IPagamentoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Repositories\\IPagamentoRepository.cs",
-              "RelativeDocumentMoniker": "PagamentosService\\Repositories\\IPagamentoRepository.cs",
-              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Repositories\\IPagamentoRepository.cs",
-              "RelativeToolTip": "PagamentosService\\Repositories\\IPagamentoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T20:39:12.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "AppDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Data\\AppDbContextFactory.cs",
-              "RelativeDocumentMoniker": "PagamentosService\\Data\\AppDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Data\\AppDbContextFactory.cs",
-              "RelativeToolTip": "PagamentosService\\Data\\AppDbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "PagamentosService\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\AppDbContextFactory.cs",
+              "RelativeToolTip": "PagamentosService\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T20:11:12.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T22:06:13.595Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\appsettings.json",
+              "RelativeDocumentMoniker": "PagamentosService\\appsettings.json",
+              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\appsettings.json",
+              "RelativeToolTip": "PagamentosService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T19:59:57.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Program.cs",
               "RelativeDocumentMoniker": "PagamentosService\\Program.cs",
               "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Program.cs",
               "RelativeToolTip": "PagamentosService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T20:40:48.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\appsettings.json",
-              "RelativeDocumentMoniker": "PagamentosService\\appsettings.json",
-              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\appsettings.json",
-              "RelativeToolTip": "PagamentosService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-18T19:59:57.702Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "PagamentosService.csproj",
+              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\PagamentosService.csproj",
+              "RelativeDocumentMoniker": "PagamentosService\\PagamentosService.csproj",
+              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\PagamentosService.csproj",
+              "RelativeToolTip": "PagamentosService\\PagamentosService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T21:06:31.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AcessoTreino.cs",
-              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Models\\AcessoTreino.cs",
-              "RelativeDocumentMoniker": "PagamentosService\\Models\\AcessoTreino.cs",
-              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Models\\AcessoTreino.cs",
-              "RelativeToolTip": "PagamentosService\\Models\\AcessoTreino.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "IAcessoTreinoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Repositories\\IAcessoTreinoRepository.cs",
+              "RelativeDocumentMoniker": "PagamentosService\\Repositories\\IAcessoTreinoRepository.cs",
+              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Repositories\\IAcessoTreinoRepository.cs",
+              "RelativeToolTip": "PagamentosService\\Repositories\\IAcessoTreinoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T20:02:39.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T20:13:16.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PagamentoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Repositories\\PagamentoRepository.cs",
-              "RelativeDocumentMoniker": "PagamentosService\\Repositories\\PagamentoRepository.cs",
-              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Repositories\\PagamentoRepository.cs",
-              "RelativeToolTip": "PagamentosService\\Repositories\\PagamentoRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T20:39:36.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "PagamentosService\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "PagamentosService\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T20:10:27.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "PagamentosController.cs",
               "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Controllers\\PagamentosController.cs",
               "RelativeDocumentMoniker": "PagamentosService\\Controllers\\PagamentosController.cs",
               "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Controllers\\PagamentosController.cs",
               "RelativeToolTip": "PagamentosService\\Controllers\\PagamentosController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAIAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T20:40:25.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IPagamentoService.cs",
-              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Services\\IPagamentoService.cs",
-              "RelativeDocumentMoniker": "PagamentosService\\Services\\IPagamentoService.cs",
-              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Services\\IPagamentoService.cs",
-              "RelativeToolTip": "PagamentosService\\Services\\IPagamentoService.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAhwAgAAABFAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "IPagamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Repositories\\IPagamentoRepository.cs",
+              "RelativeDocumentMoniker": "PagamentosService\\Repositories\\IPagamentoRepository.cs",
+              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Repositories\\IPagamentoRepository.cs",
+              "RelativeToolTip": "PagamentosService\\Repositories\\IPagamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T20:16:14.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T20:39:12.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
+              "Title": "AcessoTreinoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Repositories\\AcessoTreinoRepository.cs",
+              "RelativeDocumentMoniker": "PagamentosService\\Repositories\\AcessoTreinoRepository.cs",
+              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Repositories\\AcessoTreinoRepository.cs",
+              "RelativeToolTip": "PagamentosService\\Repositories\\AcessoTreinoRepository.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:13:55.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Pagamento.cs",
               "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Models\\Pagamento.cs",
               "RelativeDocumentMoniker": "PagamentosService\\Models\\Pagamento.cs",
               "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Models\\Pagamento.cs",
               "RelativeToolTip": "PagamentosService\\Models\\Pagamento.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowAAAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T20:35:58.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T20:35:58.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AcessoTreino.cs",
+              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Models\\AcessoTreino.cs",
+              "RelativeDocumentMoniker": "PagamentosService\\Models\\AcessoTreino.cs",
+              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Models\\AcessoTreino.cs",
+              "RelativeToolTip": "PagamentosService\\Models\\AcessoTreino.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:02:39.782Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "20250619205220_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Migrations\\20250619205220_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PagamentosService\\Migrations\\20250619205220_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Migrations\\20250619205220_InitialCreate.cs",
+              "RelativeToolTip": "PagamentosService\\Migrations\\20250619205220_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T03:59:23.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TreinoExternalDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\External\\TreinoExternalDTO.cs",
+              "RelativeDocumentMoniker": "PagamentosService\\External\\TreinoExternalDTO.cs",
+              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\External\\TreinoExternalDTO.cs",
+              "RelativeToolTip": "PagamentosService\\External\\TreinoExternalDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T21:48:15.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITreinosServiceClient.cs",
+              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\External\\ITreinosServiceClient.cs",
+              "RelativeDocumentMoniker": "PagamentosService\\External\\ITreinosServiceClient.cs",
+              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\External\\ITreinosServiceClient.cs",
+              "RelativeToolTip": "PagamentosService\\External\\ITreinosServiceClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T21:47:41.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PagamentoResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\DTOs\\PagamentoResponseDTO.cs",
+              "RelativeDocumentMoniker": "PagamentosService\\DTOs\\PagamentoResponseDTO.cs",
+              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\DTOs\\PagamentoResponseDTO.cs",
+              "RelativeToolTip": "PagamentosService\\DTOs\\PagamentoResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:38:44.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PagamentoRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\DTOs\\PagamentoRequestDTO.cs",
+              "RelativeDocumentMoniker": "PagamentosService\\DTOs\\PagamentoRequestDTO.cs",
+              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\DTOs\\PagamentoRequestDTO.cs",
+              "RelativeToolTip": "PagamentosService\\DTOs\\PagamentoRequestDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:37:06.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PagamentoCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\DTOs\\PagamentoCreateDTO.cs",
+              "RelativeDocumentMoniker": "PagamentosService\\DTOs\\PagamentoCreateDTO.cs",
+              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\DTOs\\PagamentoCreateDTO.cs",
+              "RelativeToolTip": "PagamentosService\\DTOs\\PagamentoCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T21:46:05.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AcessoTreinoResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\DTOs\\AcessoTreinoResponseDTO.cs",
+              "RelativeDocumentMoniker": "PagamentosService\\DTOs\\AcessoTreinoResponseDTO.cs",
+              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\DTOs\\AcessoTreinoResponseDTO.cs",
+              "RelativeToolTip": "PagamentosService\\DTOs\\AcessoTreinoResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:09:10.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PagamentosService\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PagamentosService\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:10:27.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TreinosServiceClient.cs",
+              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\External\\TreinosServiceClient.cs",
+              "RelativeDocumentMoniker": "PagamentosService\\External\\TreinosServiceClient.cs",
+              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\External\\TreinosServiceClient.cs",
+              "RelativeToolTip": "PagamentosService\\External\\TreinosServiceClient.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:15:17.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "PagamentoUpdateDTO.cs",
               "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\DTOs\\PagamentoUpdateDTO.cs",
               "RelativeDocumentMoniker": "PagamentosService\\DTOs\\PagamentoUpdateDTO.cs",
@@ -291,125 +389,7 @@
               "RelativeToolTip": "PagamentosService\\DTOs\\PagamentoUpdateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T20:05:17.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PagamentoResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\DTOs\\PagamentoResponseDTO.cs",
-              "RelativeDocumentMoniker": "PagamentosService\\DTOs\\PagamentoResponseDTO.cs",
-              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\DTOs\\PagamentoResponseDTO.cs",
-              "RelativeToolTip": "PagamentosService\\DTOs\\PagamentoResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T20:38:44.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PagamentoRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\DTOs\\PagamentoRequestDTO.cs",
-              "RelativeDocumentMoniker": "PagamentosService\\DTOs\\PagamentoRequestDTO.cs",
-              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\DTOs\\PagamentoRequestDTO.cs",
-              "RelativeToolTip": "PagamentosService\\DTOs\\PagamentoRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T20:37:06.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PagamentoCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\DTOs\\PagamentoCreateDTO.cs",
-              "RelativeDocumentMoniker": "PagamentosService\\DTOs\\PagamentoCreateDTO.cs",
-              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\DTOs\\PagamentoCreateDTO.cs",
-              "RelativeToolTip": "PagamentosService\\DTOs\\PagamentoCreateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T21:46:05.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AcessoTreinoResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\DTOs\\AcessoTreinoResponseDTO.cs",
-              "RelativeDocumentMoniker": "PagamentosService\\DTOs\\AcessoTreinoResponseDTO.cs",
-              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\DTOs\\AcessoTreinoResponseDTO.cs",
-              "RelativeToolTip": "PagamentosService\\DTOs\\AcessoTreinoResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T20:09:10.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AppDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\AppDbContextFactory.cs",
-              "RelativeDocumentMoniker": "PagamentosService\\AppDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\AppDbContextFactory.cs",
-              "RelativeToolTip": "PagamentosService\\AppDbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T22:06:13.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "TreinosServiceClient.cs",
-              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\External\\TreinosServiceClient.cs",
-              "RelativeDocumentMoniker": "PagamentosService\\External\\TreinosServiceClient.cs",
-              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\External\\TreinosServiceClient.cs",
-              "RelativeToolTip": "PagamentosService\\External\\TreinosServiceClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T20:15:17.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "TreinoExternalDTO.cs",
-              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\External\\TreinoExternalDTO.cs",
-              "RelativeDocumentMoniker": "PagamentosService\\External\\TreinoExternalDTO.cs",
-              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\External\\TreinoExternalDTO.cs",
-              "RelativeToolTip": "PagamentosService\\External\\TreinoExternalDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T21:48:15.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ITreinosServiceClient.cs",
-              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\External\\ITreinosServiceClient.cs",
-              "RelativeDocumentMoniker": "PagamentosService\\External\\ITreinosServiceClient.cs",
-              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\External\\ITreinosServiceClient.cs",
-              "RelativeToolTip": "PagamentosService\\External\\ITreinosServiceClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T21:47:41.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "PagamentosService.csproj",
-              "DocumentMoniker": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\PagamentosService.csproj",
-              "RelativeDocumentMoniker": "PagamentosService\\PagamentosService.csproj",
-              "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\PagamentosService.csproj",
-              "RelativeToolTip": "PagamentosService\\PagamentosService.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-16T21:06:31.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T20:05:17.192Z"
             },
             {
               "$type": "Document",
@@ -421,8 +401,7 @@
               "RelativeToolTip": "PagamentosService\\PagamentosService.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-06-18T20:00:03.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T20:00:03.3Z"
             },
             {
               "$type": "Document",
@@ -433,8 +412,7 @@
               "ToolTip": "C:\\Users\\bielb\\OneDrive\\\u00C1rea de Trabalho\\Projeto_Academia\\PagamentosService\\PagamentosService\\PagamentosService.csproj",
               "RelativeToolTip": "PagamentosService\\PagamentosService.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-16T21:06:42.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T21:06:42.371Z"
             }
           ]
         }
